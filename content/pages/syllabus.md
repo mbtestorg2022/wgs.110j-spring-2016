@@ -34,13 +34,66 @@ Further information can be found in the [Assignments]({{< baseurl >}}/pages/assi
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Attendance and Participation | 25% |
-| Weekly Response Papers | 10% |
-| Leading Discussion | 15% |
-| Short Paper | 20% |
-| Final Paper | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and Participation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly Response Papers
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Leading Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short Paper
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Resources and Policies
 ----------------------
@@ -60,23 +113,201 @@ Over the course of the term we will discuss events and concepts that may be dist
 Calendar
 --------
 
-| SES # | TOPICS | KEY DUE DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Unit 1 – Ebbs and Flows: Gender and Sexual Identities as Moving Targets**{{< /td-colspan >}} |||
-| 1 | Thinking Historically about Gender, Sex, and Sexuality | &nbsp; |
-| 2 | Before the Modern Era: Race, Reproduction, Love, and Intimacy | &nbsp; |
-| {{< td-colspan 3 >}}**Unit 2 – The Tempest: Contesting Sexual Order, C. 1900–1920**{{< /td-colspan >}} |||
-| 3 | Sex and the City: Working Class Sexuality and the Politics of Reproduction | &nbsp; |
-| 4 | The Birth of Feminism and the Women's Suffrage Movement | &nbsp; |
-| {{< td-colspan 3 >}}**Unit 3 – Locks and Dams: Creating and Policing Boundaries, C. 1920–1960**{{< /td-colspan >}} |||
-| 5 | Regulating Sexuality during the Jazz Age, Depression, and War | &nbsp; |
-| 6 | Creating, Containing, and Resisting "Normal" in Cold War America | Short paper due |
-| {{< td-colspan 3 >}}**Unit 4 – The Flood: Breaking Barriers, C. 1960–1980**{{< /td-colspan >}} |||
-| 7 | Sexual Revolutions and the Emergence of Second Wave Feminism | &nbsp; |
-| 8 | Feminism as a Mass Movement and the Flowering of Gay Liberation | &nbsp; |
-| {{< td-colspan 3 >}}**Unit 5 – Changing Tides: Gender and Sexuality as Battlegrounds, C. 1980–2000**{{< /td-colspan >}} |||
-| 9 | Culture Wars I: The Rise of the Religious Right and the AIDS Epidemic | Final paper description due |
-| 10 | Culture Wars II: Pornography, Representation, and Sexual Harassment / Violence | &nbsp; |
-| {{< td-colspan 3 >}}**Unit 6 – Sexuality and Gender in the 21st Century: Diverging Currents?**{{< /td-colspan >}} |||
-| 11 | New Trajectories in the Politics of Gender and Sexuality | &nbsp; |
-| 12 | Student-Led Discussion and Closing Thoughts | Final paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 1 – Ebbs and Flows: Gender and Sexual Identities as Moving Targets**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Thinking Historically about Gender, Sex, and Sexuality
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Before the Modern Era: Race, Reproduction, Love, and Intimacy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 2 – The Tempest: Contesting Sexual Order, C. 1900–1920**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Sex and the City: Working Class Sexuality and the Politics of Reproduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Birth of Feminism and the Women's Suffrage Movement
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 3 – Locks and Dams: Creating and Policing Boundaries, C. 1920–1960**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Regulating Sexuality during the Jazz Age, Depression, and War
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Creating, Containing, and Resisting "Normal" in Cold War America
+{{< tdclose >}}
+{{< tdopen >}}
+Short paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 4 – The Flood: Breaking Barriers, C. 1960–1980**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Sexual Revolutions and the Emergence of Second Wave Feminism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Feminism as a Mass Movement and the Flowering of Gay Liberation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 5 – Changing Tides: Gender and Sexuality as Battlegrounds, C. 1980–2000**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Culture Wars I: The Rise of the Religious Right and the AIDS Epidemic
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper description due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Culture Wars II: Pornography, Representation, and Sexual Harassment / Violence
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 6 – Sexuality and Gender in the 21st Century: Diverging Currents?**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+New Trajectories in the Politics of Gender and Sexuality
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Student-Led Discussion and Closing Thoughts
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
