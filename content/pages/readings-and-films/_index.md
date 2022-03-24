@@ -410,7 +410,7 @@ Duggan, Lisa, Nan D. Hunter, et al. "[False Promises: Feminist Anti-Pornography 
 
 Dworkin, Andrea. "Pornography: Men Possessing Women." In _Feminism in Our Time: The Essential Writings, World War II to the Present_. Edited by Miriam Schneir. Vintage, 1994. ISBN: 9780679745082.
 
-Walker, Rebecca. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Becoming the Third Wave." _Ms._, January / February 1992.
+Walker, Rebecca. "Becoming the Third Wave." _Ms._, January / February 1992.
 
 ### Skim
 
@@ -468,7 +468,7 @@ Correll, Shelley J., Stephen Benard, et al. "[Getting a Job: Is There a Motherho
 
 ### Optional
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[John Geddes Lawrence and Tyrone Gardner v. State of Texas - Brief for Amici Curiae (PDF)](http://www.apa.org/about/offices/ogc/amicus/lawrence.pdf).
+[John Geddes Lawrence and Tyrone Gardner v. State of Texas - Brief for Amici Curiae (PDF)](http://www.apa.org/about/offices/ogc/amicus/lawrence.pdf).
 
 Spade, Dean, and Craig Willse. "[Marriage Will Never Set Us Free.](https://www.academia.edu/28966535/Marriage_Will_Never_Set_Us_Free)" _Organizing Upgrade_, September 6, 2013.
 
@@ -492,7 +492,7 @@ _Readings_
 
 [Affiliated](https://affiliated.mit.edu/).
 
-Chin, Carolyn, and Kamilla Tekiela. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Executive Summary." (PDF)](https://diversity.mit.edu/resources/reports/report-status-undergraduate-women-mit) _The Status of Undergraduate Women at MIT_, February 2016.
+Chin, Carolyn, and Kamilla Tekiela. ["Executive Summary." (PDF)](https://diversity.mit.edu/resources/reports/report-status-undergraduate-women-mit) _The Status of Undergraduate Women at MIT_, February 2016.
 
 Dwyer, Sheila. "[Reporting Harassment at MIT: One Student's Call for Greater Support](http://tech.mit.edu/V136/N9/harassment.html)." _The Tech_ 136, no. 9 (2016).
 
@@ -516,7 +516,7 @@ _Readings_
 
 Bahler, Kristen. "[Asexuality: The People's Choice for People Who Don't Want ANYONE](https://www.vice.com/en/article/nn4gjk/asexuality-the-peoples-choice-for-people-who-dont-want-anyone)." _Vice_, January 4, 2013.
 
-Canning, Dominque A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Queering Asexuality: Asexual-Inclusion in Queer Spaces." (PDF)](http://commons.emich.edu/cgi/viewcontent.cgi?article=1090&context=mcnair) _McNair Scholars Research Journal_ 8, no. 1 (2015): 55–74.
+Canning, Dominque A. ["Queering Asexuality: Asexual-Inclusion in Queer Spaces." (PDF)](http://commons.emich.edu/cgi/viewcontent.cgi?article=1090&context=mcnair) _McNair Scholars Research Journal_ 8, no. 1 (2015): 55–74.
 
 The Establishment. "[Bisexuality Invisibility: The LGBT Community's Dirty Little Secret](http://www.huffingtonpost.com/the-establishment/bisexual-invisibility-the_b_9177988.html)," _Huffington Post,_ February 8, 2016.
 
@@ -576,7 +576,7 @@ _Readings_
 
 Kunzel, Regina. "Lessons in Being Gay." Chapter 6 in _Criminal Intimacy: Prison and the Uneven History of Modern American Sexuality_. University of Chicago Press, 2010. ISBN: 9780226462271.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Systems of Inequality: Criminal Justice (PDF)](http://srlp.org/files/disproportionate_incarceration_1.pdf), Sylvia Rivera Law Project.
+[Systems of Inequality: Criminal Justice (PDF)](http://srlp.org/files/disproportionate_incarceration_1.pdf), Sylvia Rivera Law Project.
 
 **Military**
 
